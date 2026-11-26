@@ -33,8 +33,12 @@
 14 file2.txt пропал
 15 ![alt text](image-19.png)
 
+<<<<<<< HEAD
 16 ![alt text](image-20.png)
 17 ![alt text](image-10.png)
+=======
+
+>>>>>>> feature/uppercase
 
 
 
